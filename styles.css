@@ -1,0 +1,13 @@
+body {
+    display: block;
+    text-align: center;
+    background-color: black;
+    height: 100%;
+    color: red;
+    font-size: 3rem;
+    margin-top: 15%
+}
+
+#clock {
+    font-size: 5rem;
+}
